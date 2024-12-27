@@ -165,7 +165,7 @@
     </div>
 
     <script>
-        const API_ENDPOINT = 'https://text.pollinations.ai/';
+        const API_ENDPOINT = 'https://hook.eu2.make.com/ihe5gs6mkcvoh55kc36m135mskbpw5s8';
         const MAX_HISTORY = 10;
 
         let ttsEnabled = false;
